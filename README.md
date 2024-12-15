@@ -1,13 +1,13 @@
 # data-analysis-excel
 I exported the sales data from database, and i conducted some analysis on it to gain insights into some of my sales operations and study ways of enhancing services based on a certain scope.
 
-## Here are the tables i used to conduct analysis. 
+### Here are the tables i used to conduct analysis. 
 - Orders Table
 - Return Table 
 - Shipping Cost Table 
 - People Table
 
-## Question
+### Question
  - To Enhance Customer Loyalty
      -  What is the Most Used Ship mode by our customers?
      -  Who are our top 10 customers in terms of sales and order frequency?
@@ -24,11 +24,11 @@ I exported the sales data from database, and i conducted some analysis on it to 
    - Based on Each Shipping Mode
  
 
-   ## Tools Used:
+   ### Tools Used:
  - Power Query
  - Power Pivot
  - Pivot Table
  - Pivot Charts
 
-## Dashboard
+### Dashboard
 https://github.com/user-attachments/assets/862239d3-62ac-4235-b10d-6dda6fdd7bb4
