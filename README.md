@@ -8,10 +8,10 @@ I exported the sales data from my database, and i conducted some analysis on it 
 - People Table
 
 ## Question
- To Enhance Customer Loyalty
-- What is the Most Used Ship mode by our customers?
-- Who are our top 10 customers in terms of sales and order frequency?
-- Also we want to know our top 10 customers in terms of order frequency?
+ - To Enhance Customer Loyalty
+-  What is the Most Used Ship mode by our customers?
+-  Who are our top 10 customers in terms of sales and order frequency?
+-  Also we want to know our top 10 customers in terms of order frequency?
   To monitor our strengths and weak points?
  - Which segment of clients generates the most sales ?
  - Which city has the most sales value?
