@@ -22,4 +22,11 @@ I exported the sales data from my database, and i conducted some analysis on it 
 - Customer Experience
    - On Average how long does it take the orders to reach our clients ?
    - Based on Each Shipping Mode
+ 
+
+   ## Tools Used:
+ - Power Query
+ - Power Pivot
+ - Pivot Table
+ - Pivot Charts
 
