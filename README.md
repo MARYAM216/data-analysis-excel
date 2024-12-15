@@ -16,9 +16,9 @@ I exported the sales data from my database, and i conducted some analysis on it 
    - Which segment of clients generates the most sales ?
    - Which city has the most sales value?
    - Which state generates the most sales value?
-  - Performance measurement
-   - What are the top performing product categories in terms of sales and profit?
-   - What is the most profitable product that we sell ?
+ - Performance measurement
+     - What are the top performing product categories in terms of sales and profit?
+     - What is the most profitable product that we sell ?
 - Customer Experience
    - On Average how long does it take the orders to reach our clients ?
    - Based on Each Shipping Mode
