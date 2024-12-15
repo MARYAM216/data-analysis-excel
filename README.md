@@ -1,5 +1,5 @@
 # data-analysis-excel
-I exported the sales data from my database, and i conducted some analysis on it to gain insights into some of my sales operations and study ways of enhancing services based on a certain scope.
+I exported the sales data from database, and i conducted some analysis on it to gain insights into some of my sales operations and study ways of enhancing services based on a certain scope.
 
 ## Here are the tables i used to conduct analysis. 
 - Orders Table
