@@ -30,3 +30,5 @@ I exported the sales data from database, and i conducted some analysis on it to 
  - Pivot Table
  - Pivot Charts
 
+## Dashboard
+"C:\Users\96655\OneDrive\سطح المكتب\data analysis\تحليل.mp4"
