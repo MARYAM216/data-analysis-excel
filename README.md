@@ -31,4 +31,4 @@ I exported the sales data from database, and i conducted some analysis on it to 
  - Pivot Charts
 
 ## Dashboard
-https://1drv.ms/v/c/8bb3e96875065a53/Ech7sISSa_dNnfvdrQE6qcMBSPi1cUeFXORC4kiAVs9eYQ
+https://github.com/user-attachments/assets/862239d3-62ac-4235-b10d-6dda6fdd7bb4
